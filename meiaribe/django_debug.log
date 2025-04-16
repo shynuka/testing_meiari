@@ -1,0 +1,10 @@
+Bad Request: /api/v1/create-meiari-user/
+Internal Server Error: /api/v1/generate-and-upload-report/
+Bad Request: /api/v1/verify-otp/
+Internal Server Error: /api/v1/signin/
+Internal Server Error: /api/v1/generate-and-upload-report/
+Bad Request: /api/v1/create-meiari-user/
+Internal Server Error: /api/v1/generate-and-upload-report/
+Bad Request: /api/v1/verify-otp/
+Internal Server Error: /api/v1/signin/
+Internal Server Error: /api/v1/generate-and-upload-report/
