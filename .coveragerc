@@ -1,0 +1,22 @@
+[run]
+source = meiaribe/meiari_v1
+omit =
+    */migrations/*
+    */__init__.py
+    */admin.py
+    */apps.py
+    meiaribe/meiari_v1/authentication.py
+    meiaribe/meiari_v1/methods.py
+    meiaribe/meiari_v1/models.py
+    meiaribe/meiari_v1/renders.py
+    meiaribe/meiari_v1/serializers.py
+    meiaribe/meiari_v1/settings.py
+    meiaribe/meiari_v1/urls.py
+    meiaribe/meiari_v1/views.py
+
+[report]
+exclude_lines =
+    pragma: no cover
+    def __str__
+    if __name__ == .__main__.:
+    raise NotImplementedError
